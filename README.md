@@ -9,7 +9,7 @@ Clone the repository to your local machine.
 Navigate to the project directory in your terminal or command prompt.
 Run npm install to install the necessary dependencies.
 Run json-server --watch db.json to start the backend server.
-In your browser, navigate to http://localhost:8001/bots to ensure that the server is working correctly.
+In your browser, navigate to http://localhost:3000/bots to ensure that the server is working correctly.
 Usage
 Once you have installed the app and confirmed that the server is running, you can start using the app. Simply run npm start in your terminal or command prompt to start the app, and then navigate to http://localhost:3000 in your browser.
 
